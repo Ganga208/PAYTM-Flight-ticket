@@ -1,0 +1,12 @@
+Welcome to paytm flight booking!
+
+mention Source --> Destination
+choose filght
+fare amount
+complete the payment
+payment options
+1. G-Pay
+2. Phone pay
+3. Debit/credit cards
+4. netbanking
+5. cred pay
